@@ -62,7 +62,10 @@ Gross Sales View Image
 COGS View Image
 Profit View
 Image
-Each page provides KPI breakdowns across different dimensions and is designed for intuitive business storytelling.
+Each page provides KPI breakdowns across different dimensions and is designed for intuitive business storytelling.Gross Sales View Image
+   
+
 
 📌 Audience
 Designed for financial analysts, business stakeholders, and managers who need to monitor and evaluate financial performance across different business categories and regions.
+
